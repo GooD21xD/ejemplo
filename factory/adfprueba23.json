@@ -1,0 +1,9 @@
+{
+	"name": "adfprueba23",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8df63c8-b5d0-4f4e-858e-a8b996238878",
+		"tenantId": "8e88a01a-2fd8-416c-a037-92b103f8e69b"
+	}
+}
